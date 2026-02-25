@@ -22,7 +22,7 @@
 
 ## 目錄結構｜Directory Structure
 ```text
-Omniverse-Asset-Pipeline-MVP/
+AI-Server-Factory-Omniverse-Pipeline/
 ├── docs/
 │   └── screenshots/          # 實際操作截圖
 │
